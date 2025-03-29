@@ -1,13 +1,5 @@
 # Hi there 👋  
 
-## My GitHub Stats
-
-✍ **Total Stars Earned:** 236  
-❌ **Total Commits (2025):** 131  
-❌ **Total PRs:** 2  
-❌ **Total Issues:** 0  
-❌ **Contributed to (last year):** 2  
-
 ## Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khafhrnsaa&show_icons=true&theme=radical)
