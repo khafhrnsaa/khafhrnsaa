@@ -1,12 +1,4 @@
-# Hi there 👋
-
-## My GitHub Stats
-
-✍ **Total Stars Earned:**   
-❌ **Total Commits (2025):**  
-❌ **Total PRs:**   
-❌ **Total Issues:** 0  
-❌ **Contributed to (last year):**   
+# Hi there 👋  
 
 ## Activity
 
